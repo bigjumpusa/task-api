@@ -1,0 +1,14 @@
+task-api/
+├── app/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── models.py
+│   ├── database.py
+│   ├── auth.py
+│   └── schemas.py
+├── tests/
+│   └── test_main.py
+├── Dockerfile
+├── docker-compose.yml
+├── requirements.txt
+└── README.md
